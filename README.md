@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richardMattsson
-- 👀 I’m interested in learning new techniques and languages like Javascript.
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in learning new techniques and programmin languages.
+- 🌱 I’m currently learning Javascript and Vue
 - 💞️ I’m looking to collaborate on anything that comes up.
 - 📫 How to reach me mattsson.richard@gmail.com
 - 😄 Pronouns: he
