@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Richard Mattsson</h1>
-<h3 align="center">A passionate fullstack developer from Sweden</h3>
+<h1 align="start">Hi 👋, I'm Richard Mattsson</h1>
+<h3 align="start">A passionate fullstack developer from Sweden</h3>
 
 - 🌱 I’m currently learning **Typescript and React Native**
 
