@@ -24,11 +24,11 @@
 Här är några av mina projekt. Klicka på bilden eller länken för att se mer på GitHub.
 
 |  |  |
-|-------------|-------------|
-| [![Blackjack](images/blackjack.png)](https://github.com/richardMattsson/blackjack2) | [![Blackjack](images/library.png)](https://github.com/richardMattsson/library) |
-|  [Blackjack där du kan spela mot datorn.](https://github.com/richardMattsson/blackjack2/)  | [Bibliotek där du kan logga in och spara dina favoritböcker](https://github.com/richardMattsson/blackjack2/) |
-| [![Cloudy](images/sun-svgrepo-com(3).png)](https://github.com/richardMattsson/Cloudy) | [![Fotbollssida](images/soccer.png)](https://github.com/richardMattsson/SoccerStats) |
-|  [En väderapp byggd med React Native](https://github.com/richardMattsson/Cloudy) |[En fotbollssida med tabeller från europas stora ligor](https://richardmattsson.github.io/SoccerStats/) |
+|-------------|-------------| 
+| [![Blackjack](images/blackjack.png)](https://richardmattsson.github.io/blackjack2/) | [![Blackjack](images/library.png)](https://richardmattsson.github.io/library/) |
+|  [Blackjack där du kan spela mot datorn.](https://github.com/richardMattsson/blackjack2/)  | [Bibliotek där du kan logga in och spara dina favoritböcker](https://github.com/richardMattsson/library) |
+| [![Cloudy](images/sun-svgrepo-com(3).png)](https://github.com/richardMattsson/Cloudy) | [![Fotbollssida](images/soccer.png)](https://richardmattsson.github.io/SoccerStats/) |
+|  [En väderapp byggd med React Native](https://github.com/richardMattsson/Cloudy) |[En fotbollssida med tabeller från europas stora ligor](https://github.com/richardMattsson/SoccerStats) | 
 
 
 
