@@ -12,6 +12,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,git,vscode,sqlite,bash,express,figma,mongodb,mysql,npm" />
 </p>
 
+
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardMattsson&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardMattsson&layout=compact&theme=radical)
+
+## 📫 Kontakt
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/richardmattsson)
 ## 📂 Projekt
 
 Här är några av mina projekt. Klicka på bilden eller länken för att se mer på GitHub.
@@ -33,12 +40,7 @@ Här är några av mina projekt. Klicka på bilden eller länken för att se mer
 - 🎲 [Blackjack-spel](https://github.com/richardMattsson/blackjack2) – byggt med HTML, CSS & JS
 - ✅ [To-Do App](https://github.com/richardMattsson/Todo-List) – med Local Storage
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardMattsson&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardMattsson&layout=compact&theme=radical)
-
-## 📫 Kontakt
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/richardmattsson)
 
 
 
