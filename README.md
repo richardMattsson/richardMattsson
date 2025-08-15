@@ -13,6 +13,20 @@
 </p>
 
 ## 📂 Projekt
+
+Här är några av mina projekt. Klicka på bilden eller länken för att se mer på GitHub.
+
+|  |  |
+|-------------|-------------|
+| [![Blackjack](images/blackjack.png)](https://github.com/richardMattsson/blackjack2) | [![Blackjack](images/library.png)](https://github.com/richardMattsson/library) |
+|  [Blackjack där du kan spela mot datorn.](https://github.com/richardMattsson/blackjack2/)  | [Bibliotek där du kan logga in och spara dina favoritböcker](https://github.com/richardMattsson/blackjack2/) |
+| [![Cloudy](images/sun-svgrepo-com(3).png)](https://github.com/richardMattsson/Cloudy) | [![Fotbollssida](images/soccer.png)](https://github.com/richardMattsson/SoccerStats) |
+|  [En väderapp byggd med React Native](https://github.com/richardMattsson/Cloudy) |[En fotbollssida med tabeller från europas stora ligor](https://richardmattsson.github.io/SoccerStats/) |
+
+
+
+
+
 - ⛅ [Väderapp](https://github.com/richardMattsson/Cloudy) – byggt med REACT NATIVE
 - 📕 [Bibliotek](https://github.com/richardMattsson/library) – byggt med REACT & VITE
 - 👮 [Polishändelser](https://github.com/richardMattsson/police-events) – byggt med VUE & VITE
