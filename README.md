@@ -28,31 +28,41 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       <a href="https://github.com/richardMattsson/Cloudy">
         <img src="images/sun-svgrepo-com(3).png" width="40%"  />
       </a>
-      <br />
-      <a href="https://github.com/richardMattsson/Cloudy">En väderapp byggd med React Native</a>
     </td>
     <td width="50%" align="center">
       <a href="https://richardmattsson.github.io/library/">
         <img src="images/library.png" />
       </a>
-      <br />
-      <a href="https://github.com/richardMattsson/Library-code">Bibliotek där du kan logga in och spara dina favoritböcker</a>
     </td>
   </tr>
   
   <tr>
-     <td width="50%" align="center">
+    <td width="50%" align="center">
+      <a href="https://github.com/richardMattsson/Cloudy">En väderapp byggd med React Native</a>
+    </td>
+    <td width="50%" align="center">
+       <a href="https://github.com/richardMattsson/Library-code">Bibliotek där du kan logga in och spara dina favoritböcker</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center">
       <a href="https://richardmattsson.github.io/police-events/">
         <img src="images/police-events.png" width="80%" />
       </a>
-      <br />
-      <a href="https://github.com/richardMattsson/Code-for-police-events">Polishändelser.</a>
     </td>
-     <td width="50%" align="center">
+    <td width="50%" align="center">
       <a href="https://richardmattsson.github.io/blackjack2/">
         <img src="images/blackjack.png" width="80%" />
       </a>
-      <br />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/richardMattsson/Code-for-police-events">Polishändelser.</a>
+    </td>
+    <td width="50%" align="center">
       <a href="https://github.com/richardMattsson/blackjack2/">Blackjack där du kan spela mot datorn.</a>
     </td>
   </tr>
@@ -62,15 +72,20 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       <a href="https://richardmattsson.github.io/SoccerStats/">
         <img src="images/soccer.png" />
       </a>
-      <br />
-      <a href="https://github.com/richardMattsson/SoccerStats">En fotbollssida med tabeller från europas stora ligor</a>
     </td>
     <td width="50%" align="center">
       <a href="https://richardmattsson.github.io/hesafredrik/">
         <img src="images/hesa-fredrik.png" width="50%" />
       </a>
-      <br />
-      <a href="https://github.com/richardMattsson/hesa-fredrik">En app med quiz och frågor om förberedelser inför kris.</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+     <a href="https://github.com/richardMattsson/SoccerStats">En fotbollssida med tabeller från europas stora ligor</a>
+    </td>
+    <td width="50%" align="center">
+    <a href="https://github.com/richardMattsson/hesa-fredrik">En app med quiz och frågor om förberedelser inför kris.</a>
     </td>
   </tr>
 </table>
