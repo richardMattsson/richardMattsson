@@ -12,12 +12,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,git,vscode,sqlite,bash,express,figma,mongodb,mysql,npm" />
 </p>
 
-## 📂 Projekt
-- ⛅ [Väderapp](https://github.com/richardMattsson/Cloudy) – byggt med REACT NATIVE
-- 📕 [Bibliotek](https://github.com/richardMattsson/library) – byggt med REACT & VITE
-- 👮 [Polishändelser](https://github.com/richardMattsson/police-events) – byggt med VUE & VITE
-- 🎲 [Blackjack-spel](https://github.com/richardMattsson/blackjack2) – byggt med HTML, CSS & JS
-- ✅ [To-Do App](https://github.com/richardMattsson/Todo-List) – med Local Storage
 
 ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardMattsson&show_icons=true&theme=radical)
 
@@ -25,6 +19,66 @@
 
 ## 📫 Kontakt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/richardmattsson)
+## 📂 Projekt
+
+Här är några av mina projekt. Klicka på bilden eller länken för att se mer på GitHub.
+
+<table>
+  
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/richardMattsson/Cloudy">
+        <img src="images/sun-svgrepo-com(3).png" width="60%"  />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/Cloudy">En väderapp byggd med React Native</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://richardmattsson.github.io/library/">
+        <img src="images/library.png"  />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/Library-code">Bibliotek där du kan logga in och spara dina favoritböcker</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://richardmattsson.github.io/blackjack2/">
+        <img src="images/blackjack.png" width="80%" />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/blackjack2/">Blackjack där du kan spela mot datorn.</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://richardmattsson.github.io/SoccerStats/">
+        <img src="images/soccer.png"  />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/SoccerStats">En fotbollssida med tabeller från europas stora ligor</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://richardmattsson.github.io/police-events/">
+        <img src="images/blackjack.png" width="80%" />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/Code-for-police-events">Polishändelser.</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://richardmattsson.github.io/Todo-List/">
+        <img src="images/soccer.png"  />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/Todo-List">En att göra lista.</a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
