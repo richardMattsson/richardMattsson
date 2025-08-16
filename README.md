@@ -66,11 +66,11 @@ Här är några av mina projekt. Klicka på bilden eller länken för att se mer
       <a href="https://github.com/richardMattsson/SoccerStats">En fotbollssida med tabeller från europas stora ligor</a>
     </td>
     <td width="50%" align="center">
-      <a href="https://richardmattsson.github.io/Todo-List/">
-        <img src="images/to-do-list.png" />
+      <a href="https://richardmattsson.github.io/hesafredrik/">
+        <img src="images/hesa-fredrik.png" width="50%" />
       </a>
       <br />
-      <a href="https://github.com/richardMattsson/Todo-List">En att göra lista.</a>
+      <a href="https://github.com/richardMattsson/hesa-fredrik">En app med quiz och frågor om förberedelser inför kris.</a>
     </td>
   </tr>
 </table>
