@@ -23,22 +23,60 @@
 
 Här är några av mina projekt. Klicka på bilden eller länken för att se mer på GitHub.
 
-|  |  |
-|-------------|-------------| 
-| [![Blackjack](images/blackjack.png)](https://richardmattsson.github.io/blackjack2/) | [![Library](images/library.png)](https://richardmattsson.github.io/library/) |
-|  [Blackjack där du kan spela mot datorn.](https://github.com/richardMattsson/blackjack2/)  | [Bibliotek där du kan logga in och spara dina favoritböcker](https://github.com/richardMattsson/Library-code) |
-| [![Cloudy](images/sun-svgrepo-com(3).png)](https://github.com/richardMattsson/Cloudy) | [![Fotbollssida](images/soccer.png)](https://richardmattsson.github.io/SoccerStats/) |
-|  [En väderapp byggd med React Native](https://github.com/richardMattsson/Cloudy) |[En fotbollssida med tabeller från europas stora ligor](https://github.com/richardMattsson/SoccerStats) | 
+<table>
+  
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/richardMattsson/Cloudy">
+        <img src="images/sun-svgrepo-com(3).png" width="60%"  />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/Cloudy">En väderapp byggd med React Native</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://richardmattsson.github.io/library/">
+        <img src="images/library.png"  />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/Library-code">Bibliotek där du kan logga in och spara dina favoritböcker</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://richardmattsson.github.io/blackjack2/">
+        <img src="images/blackjack.png" width="80%" />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/blackjack2/">Blackjack där du kan spela mot datorn.</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://richardmattsson.github.io/SoccerStats/">
+        <img src="images/soccer.png"  />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/SoccerStats">En fotbollssida med tabeller från europas stora ligor</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://richardmattsson.github.io/police-events/">
+        <img src="images/blackjack.png" width="80%" />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/Code-for-police-events">Polishändelser.</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://richardmattsson.github.io/Todo-List/">
+        <img src="images/soccer.png"  />
+      </a>
+      <br />
+      <a href="https://github.com/richardMattsson/Todo-List">En att göra lista.</a>
+    </td>
+  </tr>
+</table>
 
-
-
-
-
-- ⛅ [Väderapp](https://github.com/richardMattsson/Cloudy) – byggt med REACT NATIVE
-- 📕 [Bibliotek](https://github.com/richardMattsson/library) – byggt med REACT & VITE
-- 👮 [Polishändelser](https://github.com/richardMattsson/police-events) – byggt med VUE & VITE
-- 🎲 [Blackjack-spel](https://github.com/richardMattsson/blackjack2) – byggt med HTML, CSS & JS
-- ✅ [To-Do App](https://github.com/richardMattsson/Todo-List) – med Local Storage
 
 
 
