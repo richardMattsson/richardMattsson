@@ -69,7 +69,7 @@ Här är några av mina projekt. Klicka på bilden eller länken för att se mer
     </td>
     <td width="50%" align="center">
       <a href="https://richardmattsson.github.io/Todo-List/">
-        <img src="images/soccer.png"  />
+        <img src="images/to-do-list.png"  />
       </a>
       <br />
       <a href="https://github.com/richardMattsson/Todo-List">En att göra lista.</a>
