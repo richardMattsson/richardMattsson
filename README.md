@@ -19,7 +19,7 @@
 
 ## 📂 Projekt
 
-Här är några av mina projekt. Klicka på bilden eller länken för att se mer på GitHub.
+Här är några projekt av de projekt jag byggt själv och med andra. Klicka på bilderna eller länken för att se mer på github.
 
 <table>
   
