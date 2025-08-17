@@ -69,8 +69,8 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
   
   <tr>
     <td width="50%" align="center">
-      <a href="https://richardmattsson.github.io/SoccerStats/">
-        <img src="images/soccer.png" />
+      <a href="https://richardmattsson.github.io/paintings-website/">
+        <img src="images/painter.png" width="60%"/>
       </a>
     </td>
     <td width="50%" align="center">
@@ -79,10 +79,10 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       </a>
     </td>
   </tr>
-
+https://github.com/richardMattsson/paintings-website
   <tr>
     <td width="50%" align="center">
-     <a href="https://github.com/richardMattsson/SoccerStats">En fotbollssida med tabeller från europas stora ligor</a>
+     <a href="https://github.com/richardMattsson/paintings-website">En webbplats jag byggde åt min syster som visar sin konst.</a>
     </td>
     <td width="50%" align="center">
     <a href="https://github.com/richardMattsson/hesa-fredrik">En app med quiz och frågor om förberedelser inför kris.</a>
