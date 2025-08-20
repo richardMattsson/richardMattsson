@@ -26,7 +26,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/richardMattsson/Cloudy">
-        <img src="images/sun-svgrepo-com(3).png" width="40%"  />
+        <img src="images/Screen_recording_20250820_152401.gif" width="40%"  />
       </a>
     </td>
     <td width="50%" align="center">
@@ -79,7 +79,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       </a>
     </td>
   </tr>
-https://github.com/richardMattsson/paintings-website
+
   <tr>
     <td width="50%" align="center">
      <a href="https://github.com/richardMattsson/paintings-website">En webbplats jag byggde åt min syster som visar sin konst.</a>
