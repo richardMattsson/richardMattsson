@@ -79,7 +79,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       </a>
     </td>
   </tr>
-https://github.com/richardMattsson/paintings-website
+
   <tr>
     <td width="50%" align="center">
      <a href="https://github.com/richardMattsson/paintings-website">En webbplats jag byggde åt min syster som visar sin konst.</a>
