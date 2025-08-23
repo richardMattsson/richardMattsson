@@ -26,7 +26,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/richardMattsson/Cloudy">
-        <img src="images/Screenshot_20250820_160125.png" width="40%"  />
+        <img src="images/cloudy-23-08.gif" width="40%"  />
       </a>
     </td>
     <td width="50%" align="center">
