@@ -82,7 +82,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
 
   <tr>
     <td width="50%" align="center">
-     <a href="https://github.com/richardMattsson/paintings-website">En webbplats jag byggde åt min syster som visar sin konst.</a>
+     <a href="https://trygghetskollen.onrender.com/">Trygghetskollen</a>
     </td>
     <td width="50%" align="center">
     <a href="https://github.com/richardMattsson/hesa-fredrik">En app med quiz och frågor om förberedelser inför kris.</a>
