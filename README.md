@@ -31,7 +31,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
     </td>
     <td width="50%" align="center">
       <a href="https://richardmattsson.github.io/library/">
-        <img src="images/library.png" />
+        <img src="images/library.png" width="70%"/>
       </a>
     </td>
   </tr>
@@ -51,9 +51,9 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
         <img src="images/police-events.png" width="80%" />
       </a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://richardmattsson.github.io/blackjack2/">
-        <img src="images/blackjack.png" width="80%" />
+     <td width="50%" align="center">
+      <a href="https://trygghetskollen.onrender.com/">
+        <img src="images/Skärmbild 2025-11-16 201520.png" width="70%"/>
       </a>
     </td>
   </tr>
@@ -63,14 +63,15 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       <a href="https://github.com/richardMattsson/Code-for-police-events">Polishändelser.</a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/richardMattsson/blackjack2/">Blackjack där du kan spela mot datorn.</a>
+     <a href="https://trygghetskollen.onrender.com/">Trygghetskollen</a>
     </td>
+    
   </tr>
   
   <tr>
     <td width="50%" align="center">
-      <a href="https://trygghetskollen.onrender.com/">
-        <img src="images/Skärmbild 2025-11-16 201520.png" width="80%"/>
+      <a href="https://richardmattsson.github.io/blackjack2/">
+        <img src="images/blackjack.png" width="60%" />
       </a>
     </td>
     <td width="50%" align="center">
@@ -82,7 +83,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
 
   <tr>
     <td width="50%" align="center">
-     <a href="https://trygghetskollen.onrender.com/">Trygghetskollen</a>
+      <a href="https://github.com/richardMattsson/blackjack2/">Blackjack där du kan spela mot datorn.</a>
     </td>
     <td width="50%" align="center">
     <a href="https://github.com/richardMattsson/hesa-fredrik">En app med quiz och frågor om förberedelser inför kris.</a>
