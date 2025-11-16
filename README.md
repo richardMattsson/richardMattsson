@@ -70,7 +70,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
   <tr>
     <td width="50%" align="center">
       <a href="https://trygghetskollen.onrender.com/">
-        <img src="images/Skärmbild 2025-11-16 201520.png" width="60%"/>
+        <img src="images/Skärmbild 2025-11-16 201520.png" width="80%"/>
       </a>
     </td>
     <td width="50%" align="center">
