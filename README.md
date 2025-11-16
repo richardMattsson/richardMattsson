@@ -69,8 +69,8 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
   
   <tr>
     <td width="50%" align="center">
-      <a href="https://richardmattsson.github.io/paintings-website/">
-        <img src="images/painter2.png" width="60%"/>
+      <a href="https://trygghetskollen.onrender.com/">
+        <img src="images/Skärmbild 2025-11-16 201520.png" width="60%"/>
       </a>
     </td>
     <td width="50%" align="center">
