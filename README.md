@@ -75,8 +75,8 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://richardmattsson.github.io/hesafredrik/">
-        <img src="images/hesa-fredrik.png" width="50%" />
+      <a href="https://github.com/richardMattsson/lab_typescript_cypress">
+        <img src="images/Skärmbild 2025-12-22 224339.png" width="50%" />
       </a>
     </td>
   </tr>
@@ -86,7 +86,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       <a href="https://github.com/richardMattsson/blackjack2/">Blackjack där du kan spela mot datorn.</a>
     </td>
     <td width="50%" align="center">
-    <a href="https://github.com/richardMattsson/hesa-fredrik">En app med quiz och frågor om förberedelser inför kris.</a>
+    <a href="https://github.com/richardMattsson/lab_typescript_cypress">Fullstack webshop app tested with cypress</a>
     </td>
   </tr>
 </table>
