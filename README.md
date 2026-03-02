@@ -52,7 +52,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       </a>
     </td>
      <td width="50%" align="center">
-      <a href="https://trygghetskollen.onrender.com/">
+      <a href="http://46.225.10.139:81/">
         <img src="images/Skärmbild 2025-11-16 201520.png" width="70%"/>
       </a>
     </td>
@@ -63,7 +63,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       <a href="https://github.com/richardMattsson/Code-for-police-events">Polishändelser.</a>
     </td>
     <td width="50%" align="center">
-     <a href="https://trygghetskollen.onrender.com/">Trygghetskollen</a>
+     <a href="http://46.225.10.139:81/">Trygghetskollen</a>
     </td>
     
   </tr>
@@ -75,7 +75,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/richardMattsson/lab_typescript_cypress">
+      <a href="http://46.225.10.139/">
         <img src="images/Skärmbild 2025-12-22 224339.png" width="50%" />
       </a>
     </td>
@@ -86,7 +86,7 @@ Här är några av de projekt jag byggt själv och med andra. Klicka på bildern
       <a href="https://github.com/richardMattsson/blackjack2/">Blackjack där du kan spela mot datorn.</a>
     </td>
     <td width="50%" align="center">
-    <a href="https://github.com/richardMattsson/lab_typescript_cypress">Fullstack webshop app tested with cypress</a>
+    <a href="http://46.225.10.139/">Fullstack webshop app tested with cypress</a>
     </td>
   </tr>
 </table>
