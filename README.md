@@ -1,6 +1,6 @@
 # 👋 Hej, jag heter Richard  
-🎓 Studerar JavaScriptutveckling på IT-Högskolan  
-💻 Intresserad av fullstack, frontend och webbutveckling  
+🎓 Utbildad fullstackutvecklare inom JavaScript från IT-Högskolan  
+💻 Intresserad av fullstack, frontend och webbutveckling
 
 ---
 
