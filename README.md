@@ -1,5 +1,5 @@
 <p>
-  <img src="images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" width="100%" style="max-height: 100px; object-fit: cover; border-radius: 15px" />
+  <img src="images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" width="100%" style="max-height: '100px'; object-fit: cover; border-radius: '15px'" />
 </p>
 
 # Hej, jag heter Richard Mattsson
