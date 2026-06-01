@@ -39,7 +39,7 @@
     </ul>
     <div style="display: flex; gap: 15px">
           <a href="https://github.com/richardMattsson/lab_typescript_cypress">
-            <img alt="Static Badge" src="https://img.shields.io/badge/repository-orange?logo=github">
+            <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
           </a>
           <a href="https://breadshop.richardmattsson.se/">
             <img alt="Static Badge" src="https://img.shields.io/badge/@breadshop.richardmattsson.se-blue">
@@ -63,16 +63,16 @@
 <div style="display: flex; justify-content: space-between; min-height: 200px">
 
   <div style="display: flex; flex-direction: column; gap: 10px; width: 60%; padding: 15px">
-    <i>Ett fullstack-projekt till för att öka medvetenheten kring tryggare digitala vanor och integritet på nätet. Publicerad via Microsoft Azure Cloud med frontend, backend och databas i Docker compose</i>
-    <p><strong>Stack: </strong>Microsoft Azure Cloud | Docker | React | JavaScript</p>
+    <i>Gör ett enkelt snabbtest för att kolla om du eventuellt har blivit utsatt för ett bedrägeriförsök.</i>
+    <p><strong>Stack: </strong>Cloud Server | Docker | React | JavaScript | postgreSQL</p>
     <ul>
-      <li>Skapa användare med krypterat lösenord.</li>
-      <li>Logga in på din profil för att spara och se tidigare beställningar.</li>
-      <li>Navigera mellan de olika sidorna och anpassa din beställning.</li>
+      <li>Svara på kontrollfrågor om misstänksamma telefonsamtal eller sms.</li>
+      <li>Läs om andras erfarenheter och anmäl egna på en anslagstavla.</li>
+      <li>Skapa en profil och logga in för att spara dina resultat.</li>
     </ul>
     <div style="display: flex; gap: 15px">
           <a href="https://github.com/richardMattsson/Trygghetskollen">
-            <img alt="Static Badge" src="https://img.shields.io/badge/repository-orange?logo=github">
+            <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
           </a>
           <a href="https://trygghetskollen.richardmattsson.se/">
             <img alt="Static Badge" src="https://img.shields.io/badge/@trygghetskollen.richardmattsson.se-blue">
@@ -91,78 +91,132 @@
 
 ---
 
-<table>
-  
-  <tr>
-    <td width="50%" align="center">
-      <a href="http://46.225.10.139/">
-        <img src="images/Skärmbild 2025-12-22 224339.png" width="50%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="http://46.225.10.139:81/">
-        <img src="images/Skärmbild 2025-11-16 201520.png" width="70%"/>
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" align="center">
-       <a href="https://github.com/richardMattsson/lab_typescript_cypress">Fullstack webshop app tested with cypress</a>
-    </td>
-    <td width="50%" align="center">
-     <a href="https://github.com/richardMattsson/Trygghetskollen">Trygghetskollen</a>
-    </td>
-   
-  </tr>
-  
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://richardmattsson.github.io/police-events/">
-        <img src="images/police-events.png" width="80%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://richardmattsson.github.io/library/">
-        <img src="images/library.png" width="70%"/>
-      </a>
-    </td>
-     
-  </tr>
+### Polisens API
 
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/richardMattsson/Code-for-police-events">Polishändelser.</a>
-    </td>
-     <td width="50%" align="center">
-       <a href="https://github.com/richardMattsson/Library-code">Bibliotek där du kan logga in och spara dina favoritböcker</a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://richardmattsson.github.io/blackjack2/">
-        <img src="images/blackjack.png" width="60%" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/richardMattsson/Cloudy">
-        <img src="images/cloudy-23-08.gif" width="40%"  />
-      </a>
-    </td>
-  </tr>
+<div style="display: flex; justify-content: space-between; min-height: 200px">
 
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/richardMattsson/blackjack2/">Blackjack där du kan spela mot datorn.</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/richardMattsson/Cloudy">En väderapp byggd med React Native</a>
-    </td>
-   
-  </tr>
+  <div style="display: flex; flex-direction: column; gap: 10px; width: 60%; padding: 15px">
+    <i>Kolla de senaste händelserna som rapporterats in av polisen.</i>
+    <p><strong>Stack: </strong>Vue.js | API | JavaScript </p>
+    <ul>
+      <li>Sök på städer i Sverige och datum efter inrapporterade händelser.</li>
+      <li>Läs mer om händelsen och spara för ett senare tillfälle.</li>
+      <li>Filtrera anmälningar efter händelsetyp.</li>
+    </ul>
+    <div style="display: flex; gap: 15px">
+          <a href="https://github.com/richardMattsson/Trygghetskollen">
+            <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
+          </a>
+          <a href="https://richardmattsson.github.io/police-events/">
+            <img alt="Static Badge" src="https://img.shields.io/badge/@richardmattsson.github.io/police--events-blue">
+          </a>
+    </div>
+
+  </div>
   
-</table>
+  <div style="width: 40%; padding: 15px">
+    <a style="display: flex; justify-content: center;" href="http://46.225.10.139/">
+        <img src="images/police-events.png" height="150px" />
+      </a>
+  </div>
+
+</div>
+
+---
+
+### Bibliotek
+
+<div style="display: flex; justify-content: space-between; min-height: 200px">
+
+  <div style="display: flex; flex-direction: column; gap: 10px; width: 60%; padding: 15px">
+    <i>Sök efter böcker från Googles API och spara till dina favoriter.</i>
+    <p><strong>Stack: </strong>JavaScript | React | Google API </p>
+    <ul>
+      <li>Sök efter böcker och få mer information.</li>
+      <li>Markera och spara dina favoritböcker.</li>
+      <li>Skapa användare för att logga in och se en samlad lista över dina sparade böcker.</li>
+    </ul>
+    <div style="display: flex; gap: 15px">
+          <a href="https://github.com/richardMattsson/Library-code">
+            <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
+          </a>
+          <a href="https://richardmattsson.github.io/library">
+            <img alt="Static Badge" src="https://img.shields.io/badge/@https://richardmattsson.github.io/library-blue">
+          </a>
+    </div>
+
+  </div>
+  
+  <div style="width: 40%; padding: 15px">
+    <a style="display: flex; justify-content: center;" href="http://46.225.10.139/">
+        <img src="images/library.png" height="150px" />
+      </a>
+  </div>
+
+</div>
+
+---
+
+### Blackjack
+
+<div style="display: flex; justify-content: space-between; min-height: 200px">
+
+  <div style="display: flex; flex-direction: column; gap: 10px; width: 60%; padding: 15px">
+    <i>Spela ett parti Blackjack mot datorn och se om du kan få över 2 poäng.</i>
+    <p><strong>Stack: </strong>JavaScript | HTML | CSS </p>
+    <ul>
+      <li>Dra kort och försök komma nära men inte över 21.</li>
+      <li>Stanna när du känner dig nöjd och låt datorn spela.</li>
+      <li>Den som kommer närmst 21 får ett poäng, dela nya kort och kör igen.</li>
+    </ul>
+    <div style="display: flex; gap: 15px">
+          <a href="https://github.com/richardMattsson/blackjack2">
+            <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
+          </a>
+          <a href="https://richardmattsson.github.io/blackjack2">
+            <img alt="Static Badge" src="https://img.shields.io/badge/@https://richardmattsson.github.io/blackjack2-blue">
+          </a>
+    </div>
+
+  </div>
+  
+  <div style="width: 40%; padding: 15px">
+    <a style="display: flex; justify-content: center;" href="http://46.225.10.139/">
+        <img src="images/blackjack.png" height="150px" />
+      </a>
+  </div>
+
+</div>
+
+---
+
+### Cloudy
+
+<div style="display: flex; justify-content: space-between; min-height: 200px">
+
+  <div style="display: flex; flex-direction: column; gap: 10px; width: 60%; padding: 15px">
+    <i>En väderapp med visuella inslag i mobilen.</i>
+    <p><strong>Stack: </strong>React Native </p>
+    <ul>
+      <li>Sök efter stad och visa aktuellt väder.</li>
+      <li>Spara dina mest besökta städer i favoriter.</li>
+      <li>Välj att visa nuvarande väder eller kommande prognoser.</li>
+    </ul>
+    <div style="display: flex; gap: 15px">
+          <a href="https://github.com/richardMattsson/Cloudy">
+            <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
+          </a>
+    </div>
+
+  </div>
+  
+  <div style="width: 40%; padding: 15px">
+    <a style="display: flex; justify-content: center;" href="http://46.225.10.139/">
+        <img src="images/cloudy-23-08.gif" height="350px" />
+      </a>
+  </div>
+
+</div>
 
 ---
 
