@@ -1,27 +1,17 @@
-<p>
-  <img src="images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" width="100%" />
-</p>
+<!-- BANNER -->
+![Banner](https://github.com/richardMattsson/richardMattsson/blob/main/images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg?raw=true)
+
+---
 
 # Hej, jag heter Richard Mattsson
 
-<p>
-  Junior utvecklare med <strong>grund i JavaScript</strong>, byggd på
-  hobbyprojekt, utbildning och
-  <strong>LIA</strong>.
-</p>
-<p>
-  Jag <strong>välkomnar</strong> kodgranskning och feedback - det är så
-  jag <strong>växer</strong> snabbast. På sikt vill jag
-  <strong>fördjupa</strong> mig i ett specialområde för att en dag
-  kunna <strong>föra kunskapen vidare</strong> till andra. Jag är en
-  <strong>utvecklare</strong> som är hungrig på utmaningar, enkel att
-  samarbeta med och som alltid har slutanvändarens
-  <strong>upplevelse</strong> i fokus.
-</p>
+Junior utvecklare med **grund i JavaScript**, byggd på hobbyprojekt, utbildning och **LIA**.
+
+Jag är en **utvecklare** som är hungrig på utmaningar och som alltid har slutanvändarens **upplevelse** i fokus.
 
 🎓 Utbildad fullstackutvecklare inom JavaScript från IT-Högskolan
 
-💻 Kolla in min portfolio om du vill se mer av mina projekt.
+💻 Kolla in min portfolio för att se mer av mina projekt.
 
  <a href="https://richardmattsson.se/">
     <img alt="Static Badge" src="https://img.shields.io/badge/@richardmattsson.se-blue">
@@ -56,7 +46,7 @@ _En webbapp där du kan beställa hem nybakat bröd till din dörr. Byggd för m
 
 ### Trygghetskollen
 
-<img align="right" src="images/Skärmbild 2025-11-16 201520.png" width="120" alt="Trygghetskollen Demo"/>
+<img align="right" src="images/Skärmbild 2025-11-16 201520.png" width="220" alt="Trygghetskollen Demo"/>
 
 _Gör ett enkelt snabbtest för att kolla om du eventuellt har blivit utsatt för ett bedrägeriförsök._
 
@@ -81,7 +71,7 @@ _Gör ett enkelt snabbtest för att kolla om du eventuellt har blivit utsatt fö
 
 ### Polisens API
 
-<img align="right" src="images/police-events.png" width="120" alt="Polisens API Demo"/>
+<img align="right" src="images/police-events.png" width="220" alt="Polisens API Demo"/>
 
 _Kolla de senaste händelserna som rapporterats in av polisen._
 
@@ -106,7 +96,7 @@ _Kolla de senaste händelserna som rapporterats in av polisen._
 
 ### Bibliotek
 
-<img align="right" src="images/library.png" width="120" alt="Bibliotek Demo"/>
+<img align="right" src="images/library.png" width="220" alt="Bibliotek Demo"/>
 
 _Sök efter böcker från Googles API och spara till dina favoriter._
 
@@ -131,7 +121,7 @@ _Sök efter böcker från Googles API och spara till dina favoriter._
 
 ### Blackjack
 
-<img align="right" src="images/blackjack.png" width="120" alt="Bibliotek Demo"/>
+<img align="right" src="images/blackjack.png" width="180" alt="Bibliotek Demo"/>
 
 _Spela ett parti Blackjack mot datorn och se om du kan få över 2 poäng._
 
