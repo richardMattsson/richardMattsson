@@ -184,10 +184,6 @@ _En väderapp med visuella grafer och prognoser i mobilen._
   <img src="https://skillicons.dev/icons?i=git,vscode,bash,figma,npm" />
 </p>
 
-## Kontakt
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/richardmattsson)
-
 <!---
 richardMattsson/richardMattsson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
