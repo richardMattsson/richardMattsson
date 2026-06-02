@@ -23,7 +23,7 @@
 
 💻 Kolla in min portfolio om du vill se mer av mina projekt.
 
- <a href="https://breadshop.richardmattsson.se/">
+ <a href="https://richardmattsson.se/">
     <img alt="Static Badge" src="https://img.shields.io/badge/@richardmattsson.se-blue">
   </a>
 
@@ -57,12 +57,9 @@
 </td>
 
 <td width="30%" valign="middle">
-
-  <a href="https://breadshop.richardmattsson.se/">
-    <img src="images/Skärmbild 2025-12-22 224339.png" width="100%" />
-  </a>
-
+  <img src="images/Skärmbild 2025-12-22 224339.png" width="100%" />
 </td>
+
 </tr>
 </table>
 
@@ -96,12 +93,9 @@
 </td>
 
 <td width="30%">
-
-  <a href="https://breadshop.richardmattsson.se/">
-    <img src="images/Skärmbild 2025-11-16 201520.png" width="100%" />
-  </a>
-
+  <img src="images/Skärmbild 2025-11-16 201520.png" width="100%" />
 </td>
+
 </tr>
 </table>
 
@@ -135,12 +129,9 @@
 </td>
 
 <td width="30%">
-
-  <a href="https://breadshop.richardmattsson.se/">
-    <img src="images/police-events.png" width="100%" />
-  </a>
-
+  <img src="images/police-events.png" width="100%" />
 </td>
+
 </tr>
 </table>
 
@@ -174,12 +165,9 @@
 </td>
 
 <td width="30%">
-
-  <a href="https://breadshop.richardmattsson.se/">
     <img src="images/library.png" width="100%" />
-  </a>
-
 </td>
+
 </tr>
 </table>
 
@@ -213,12 +201,9 @@
 </td>
 
 <td width="30%">
-
-  <a href="https://breadshop.richardmattsson.se/">
-    <img src="images/blackjack.png" width="100%" />
-  </a>
-
+  <img src="images/blackjack.png" width="100%" />
 </td>
+
 </tr>
 </table>
 
@@ -249,12 +234,9 @@
 </td>
 
 <td width="30%">
-
-  <a href="https://breadshop.richardmattsson.se/">
-    <img src="images/cloudy-23-08.gif" width="100%" />
-  </a>
-
+  <img src="images/cloudy-23-08.gif" width="100%" />
 </td>
+
 </tr>
 </table>
 
