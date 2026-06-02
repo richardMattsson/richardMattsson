@@ -1,4 +1,5 @@
 <!-- BANNER -->
+
 ![Banner](https://github.com/richardMattsson/richardMattsson/blob/main/images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg?raw=true)
 
 ---
@@ -166,23 +167,47 @@ _En väderapp med visuella grafer och prognoser i mobilen._
 
 ## Tech Stack
 
-### Frontend
+### Språk och ramverk
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,pinia,vite,bootstrap,sass" />
-</p>
+<div align="start">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=grey" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white" />
+</div>
 
 ### Backend & Databaser
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,sqlite,express,mongodb,mysql,postgresql,npm" />
-</p>
+<div align="start">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+</div>
 
 ### Verktyg
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,bash,figma,npm" />
-</p>
+<div align="start">
+  <img src="https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3&logoColor=white" />
+  <img src="https://img.shields.io/badge/visx-FF1231?logo=visx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+</div>
+
+### Cross-Platform
+
+<div align="start">
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+</div>
 
 <!---
 richardMattsson/richardMattsson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
