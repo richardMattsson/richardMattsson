@@ -21,7 +21,11 @@
 
 🎓 Utbildad fullstackutvecklare inom JavaScript från IT-Högskolan
 
-💻 Kolla in min [portfolio](https://www.richardmattsson.se) om du vill se mer av mina projekt.
+💻 Kolla in min portfolio om du vill se mer av mina projekt.
+
+ <a href="https://breadshop.richardmattsson.se/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/@richardmattsson.se-blue">
+  </a>
 
 ## Projekt
 
@@ -35,46 +39,38 @@
 
 <strong>Stack: </strong>TypeScript | Cypress | Github actions | React
 
-  <ul>
-    <li>Skapa användare med krypterat lösenord.</li>
-    <li>Logga in på din profil för att spara och se tidigare beställningar.</li>
-    <li>Navigera mellan de olika sidorna och anpassa din beställning.</li>
-  </ul>
+- Skapa användare med krypterat lösenord.
+- Logga in på din profil för att spara och se tidigare beställningar.
+- Navigera mellan de olika sidorna och anpassa din beställning.
 
-  <br>
+<br>
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/richardMattsson/lab_typescript_cypress">
-          <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
-        </a>
-      </td>
-      <td>
-        <a href="https://breadshop.richardmattsson.se/">
-          <img alt="Static Badge" src="https://img.shields.io/badge/@breadshop.richardmattsson.se-blue">
-        </a>
-      </td>
-    </tr>
-  </table>
+<span>
+  <a href="https://github.com/richardMattsson/lab_typescript_cypress">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
+  </a>  
+  <a href="https://breadshop.richardmattsson.se/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/@breadshop.richardmattsson.se-blue">
+  </a>
+</span>
 
-  </td>
+</td>
 
-  <td width="30%" valign="top">
+<td width="30%" valign="middle">
 
   <a href="https://breadshop.richardmattsson.se/">
     <img src="images/Skärmbild 2025-12-22 224339.png" width="100%" />
   </a>
 
-  </td>
-  </tr>
-  </table>
+</td>
+</tr>
+</table>
 
 ---
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
 
 ### Trygghetskollen
 
@@ -82,40 +78,32 @@
 
 <strong>Stack: </strong>Cloud Server | Docker | React | JavaScript | postgreSQL
 
-  <ul>
-      <li>Svara på kontrollfrågor om misstänksamma telefonsamtal eller sms.</li>
-      <li>Läs om andras erfarenheter och anmäl egna på en anslagstavla.</li>
-      <li>Skapa en profil och logga in för att spara dina resultat.</li>
-    </ul>
+- Svara på kontrollfrågor om misstänksamma telefonsamtal eller sms.
+- Läs om andras erfarenheter och anmäl egna på en anslagstavla.
+- Skapa en profil och logga in för att spara dina resultat.
 
-  <br>
+<br>
 
-  <table>
-    <tr>
-      <td>
-         <a href="https://github.com/richardMattsson/Trygghetskollen">
-            <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
-          </a>
-      </td>
-      <td>
-        <a href="https://trygghetskollen.richardmattsson.se/">
-            <img alt="Static Badge" src="https://img.shields.io/badge/@trygghetskollen.richardmattsson.se-blue">
-          </a>
-      </td>
-    </tr>
-  </table>
+<span>
+  <a href="https://github.com/richardMattsson/Trygghetskollen">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
+  </a>
+  <a href="https://trygghetskollen.richardmattsson.se/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/@trygghetskollen.richardmattsson.se-blue">
+  </a>
+</span>
 
-  </td>
+</td>
 
-  <td width="30%">
+<td width="30%">
 
   <a href="https://breadshop.richardmattsson.se/">
-    <img src="images/Skärmbild 2025-11-16 201520.png" height="100%" />
+    <img src="images/Skärmbild 2025-11-16 201520.png" width="100%" />
   </a>
 
-  </td>
-  </tr>
-  </table>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -129,40 +117,32 @@
 
 <strong>Stack: </strong>Vue.js | API | JavaScript
 
-  <ul>
-    <li>Sök på städer i Sverige och datum efter inrapporterade händelser.</li>
-    <li>Läs mer om händelsen och spara för ett senare tillfälle.</li>
-    <li>Filtrera anmälningar efter händelsetyp.</li>
-  </ul>
+- Sök på städer i Sverige och datum efter inrapporterade händelser.
+- Läs mer om händelsen och spara för ett senare tillfälle.
+- Filtrera anmälningar efter händelsetyp.
 
-  <br>
+<br>
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/richardMattsson/police-events">
-          <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
-        </a>
-      </td>
-      <td>
-        <a href="https://richardmattsson.github.io/police-events/">
-          <img alt="Static Badge" src="https://img.shields.io/badge/@richardmattsson.github.io/police--events-blue">
-        </a>
-      </td>
-    </tr>
-  </table>
+<span>
+  <a href="https://github.com/richardMattsson/police-events">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
+  </a>
+  <a href="https://richardmattsson.github.io/police-events/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/@richardmattsson.github.io/police--events-blue">
+  </a>
+</span>
 
-  </td>
+</td>
 
-  <td width="30%">
+<td width="30%">
 
   <a href="https://breadshop.richardmattsson.se/">
     <img src="images/police-events.png" width="100%" />
   </a>
 
-  </td>
-  </tr>
-  </table>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -176,40 +156,32 @@
 
 <strong>Stack: </strong>JavaScript | React | Google API
 
-  <ul>
-      <li>Sök efter böcker och få mer information.</li>
-      <li>Markera och spara dina favoritböcker.</li>
-      <li>Skapa användare för att logga in och se en samlad lista över dina sparade böcker.</li>
-    </ul>
+- Sök efter böcker och få mer information.
+- Markera och spara dina favoritböcker.
+- Skapa användare för att logga in och se en samlad lista över dina sparade böcker.
 
-  <br>
+<br>
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/richardMattsson/Library-code">
-          <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
-        </a>
-      </td>
-      <td>
-        <a href="https://richardmattsson.github.io/library/">
-          <img alt="Static Badge" src="https://img.shields.io/badge/@https://richardmattsson.github.io/library-blue">
-        </a>
-      </td>
-    </tr>
-  </table>
+<span>
+  <a href="https://github.com/richardMattsson/Library-code">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
+  </a>
+  <a href="https://richardmattsson.github.io/library/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/@https://richardmattsson.github.io/library-blue">
+  </a>
+</span>
 
-  </td>
+</td>
 
-  <td width="30%">
+<td width="30%">
 
   <a href="https://breadshop.richardmattsson.se/">
     <img src="images/library.png" width="100%" />
   </a>
 
-  </td>
-  </tr>
-  </table>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -223,40 +195,32 @@
 
 <strong>Stack: </strong>JavaScript | HTML | CSS
 
-  <ul>
-      <li>Dra kort och försök komma nära men inte över 21.</li>
-      <li>Stanna när du känner dig nöjd och låt datorn spela.</li>
-      <li>Den som kommer närmst 21 får ett poäng, dela nya kort och kör igen.</li>
-    </ul>
+- Dra kort och försök komma nära men inte över 21.
+- Stanna när du känner dig nöjd och låt datorn spela.
+- Den som kommer närmst 21 får ett poäng, dela nya kort och kör igen.
 
-  <br>
+<br>
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/richardMattsson/blackjack2">
-            <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
-          </a>
-      </td>
-      <td>
-        <a href="https://richardmattsson.github.io/blackjack2">
-            <img alt="Static Badge" src="https://img.shields.io/badge/@https://richardmattsson.github.io/blackjack2-blue">
-          </a>
-      </td>
-    </tr>
-  </table>
+<span>
+  <a href="https://github.com/richardMattsson/blackjack2">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
+  </a>
+  <a href="https://richardmattsson.github.io/blackjack2">
+    <img alt="Static Badge" src="https://img.shields.io/badge/@https://richardmattsson.github.io/blackjack2-blue">
+  </a>
+</span>
 
-  </td>
+</td>
 
-  <td width="30%">
+<td width="30%">
 
   <a href="https://breadshop.richardmattsson.se/">
     <img src="images/blackjack.png" width="100%" />
   </a>
 
-  </td>
-  </tr>
-  </table>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -270,35 +234,29 @@
 
 <strong>Stack: </strong>React Native
 
-  <ul>
-      <li>Sök efter stad och visa aktuellt väder.</li>
-      <li>Spara dina mest besökta städer i favoriter.</li>
-      <li>Välj att visa nuvarande väder eller kommande prognoser.</li>
-    </ul>
+- Sök efter stad och visa aktuellt väder.
+- Spara dina mest besökta städer i favoriter.
+- Välj att visa nuvarande väder eller kommande prognoser.
 
-  <br>
+<br>
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/richardMattsson/Cloudy">
-            <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
-          </a>
-      </td>
-    </tr>
-  </table>
+<span>
+  <a href="https://github.com/richardMattsson/Cloudy">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Github-orange?logo=github">
+  </a>
+</span>
 
-  </td>
+</td>
 
-  <td width="30%">
+<td width="30%">
 
   <a href="https://breadshop.richardmattsson.se/">
     <img src="images/cloudy-23-08.gif" width="100%" />
   </a>
 
-  </td>
-  </tr>
-  </table>
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
