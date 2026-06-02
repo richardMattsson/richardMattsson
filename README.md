@@ -29,21 +29,17 @@
 
 ## Projekt
 
-<table>
-  <tr>
-    <td width="70%" valign="top">
-
 ### Breadshop
 
-<i>En webbapp där du kan beställa hem nybakat bröd till din dörr. Byggd för mobil-skärm.</i>
+<img align="right" src="images/Skärmbild 2025-12-22 224339.png" width="120" alt="WordSage Demo"/>
 
-<strong>Stack: </strong>TypeScript | Cypress | Github actions | React
+*En webbapp där du kan beställa hem nybakat bröd till din dörr. Byggd för mobil-skärm.*
+
+**Stack:** TypeScript | Cypress | Github actions | React
 
 - Skapa användare med krypterat lösenord.
 - Logga in på din profil för att spara och se tidigare beställningar.
 - Navigera mellan de olika sidorna och anpassa din beställning.
-
-<br>
 
 <span>
   <a href="https://github.com/richardMattsson/lab_typescript_cypress">
@@ -54,14 +50,7 @@
   </a>
 </span>
 
-</td>
-
-<td width="30%" valign="middle">
-  <img src="images/Skärmbild 2025-12-22 224339.png" width="100%" />
-</td>
-
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
