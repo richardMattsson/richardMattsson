@@ -49,7 +49,7 @@ _En webbapp där du kan beställa hem nybakat bröd från lokala leverantörer. 
 
 <img align="right" src="images/Skärmbild 2025-11-16 201520.png" width="220" alt="Trygghetskollen Demo"/>
 
-_Gör ett enkelt snabbtest för att kolla om du eventuellt har blivit utsatt för ett bedrägeriförsök._
+_Gör ett snabbtest för att kolla om du blivit utsatt för ett bedrägeriförsök._
 
 **Stack:** Cloud Server | Docker | React | JavaScript | postgreSQL
 
