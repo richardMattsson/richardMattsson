@@ -6,11 +6,11 @@
 
 # Hej, jag heter Richard Mattsson
 
-Junior utvecklare med **grund i JavaScript**, byggd på hobbyprojekt, utbildning och **LIA**.
+Junior utvecklare med **stabil grund** inom webbutveckling, byggd på diverse hobbyprojekt, kurser och **lärande i arbete**.
 
 Jag är en **utvecklare** som är hungrig på utmaningar och som alltid har slutanvändarens **upplevelse** i fokus.
 
-🎓 Utbildad fullstackutvecklare inom JavaScript från IT-Högskolan
+🎓 Utbildad fullstackutvecklare inom JavaScript från IT-Högskolan i Göteborg.
 
 💻 Kolla in min portfolio för att se mer av mina projekt.
 
@@ -24,7 +24,7 @@ Jag är en **utvecklare** som är hungrig på utmaningar och som alltid har slut
 
 <img align="right" src="images/Skärmbild 2025-12-22 224339.png" width="120" alt="Breadshop Demo"/>
 
-_En webbapp där du kan beställa hem nybakat bröd till din dörr. Byggd för mobil-skärm._
+_En webbapp där du kan beställa hem nybakat bröd från lokala leverantörer. Byggd för mobil._
 
 **Stack:** TypeScript | Cypress | Github actions | React
 
@@ -74,7 +74,7 @@ _Gör ett enkelt snabbtest för att kolla om du eventuellt har blivit utsatt fö
 
 <img align="right" src="images/police-events.png" width="220" alt="Polisens API Demo"/>
 
-_Kolla de senaste händelserna som rapporterats in av polisen._
+_Interagera med de senaste händelserna som rapporterats in av polisen._
 
 **Stack:** Vue.js | API | JavaScript
 
@@ -99,7 +99,7 @@ _Kolla de senaste händelserna som rapporterats in av polisen._
 
 <img align="right" src="images/library.png" width="220" alt="Bibliotek Demo"/>
 
-_Sök efter böcker från Googles API och spara till dina favoriter._
+_Sök efter böcker från Googles API och spara i ditt eget bibliotek._
 
 **Stack:** JavaScript | React | Google API
 
@@ -124,7 +124,7 @@ _Sök efter böcker från Googles API och spara till dina favoriter._
 
 <img align="right" src="images/blackjack.png" width="180" alt="Bibliotek Demo"/>
 
-_Spela ett parti Blackjack mot datorn och se om du kan få över 2 poäng._
+_Spela ett parti Blackjack mot datorn och se om du kan vinna._
 
 **Stack:** JavaScript | HTML | CSS
 
@@ -151,7 +151,7 @@ _Spela ett parti Blackjack mot datorn och se om du kan få över 2 poäng._
 
 _En väderapp med visuella grafer och prognoser i mobilen._
 
-**Stack:** React Native
+**Stack:** React Native | Expo
 
 - Sök efter stad och visa aktuellt väder.
 - Spara dina mest besökta städer i favoriter.
