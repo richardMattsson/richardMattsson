@@ -6,7 +6,7 @@
 
 # Hej, jag heter Richard Mattsson
 
-Fullstackutvecklare med **stabil grund** inom webbutveckling, byggd på diverse hobbyprojekt, kurser och **lärande i arbete**.
+Fullstackutvecklare med **grund** inom webbutveckling, byggd på diverse hobbyprojekt, kurser och **lärande i arbete**.
 
 Jag är en **utvecklare** som är hungrig på utmaningar och som alltid har slutanvändarens **upplevelse** i fokus.
 
